@@ -1,0 +1,46 @@
+.container {
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+  }
+  
+  th, td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #f2f2f2;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  tr:hover {
+    background-color: #ddd;
+  }
+  
+  .add-data {
+    margin-top: 20px;
+  }
+  
+  .add-data label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .add-data input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+  }
+  
+  .save-btn, .cancel-btn, .edit-btn, .delete-btn, .
+  
